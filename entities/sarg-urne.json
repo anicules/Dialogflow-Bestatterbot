@@ -1,0 +1,9 @@
+{
+  "id": "d8b42529-c38d-4ebc-813b-a7ffac8c78b2",
+  "name": "sarg-urne",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

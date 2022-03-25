@@ -1,0 +1,35 @@
+{
+  "id": "d6c57dcf-d7b8-4949-b4a8-ce5dc5d45a14",
+  "name": "kb-def-baumbestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Bei einer Baumbestattung wird Verstorbene kremiert, die Asche die hinterbleibt wird in eine Urne gesammelt. Die Urne wird im Wurzelbereich eines Baumes in einem Bestattungswald beigesetzt. Nicht alle Friedhöfe bieten diese Bestattungsart an bzw. nur bestimmte Unternehmen besitzen Bestattungswälder."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

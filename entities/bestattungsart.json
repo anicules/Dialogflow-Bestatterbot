@@ -1,0 +1,9 @@
+{
+  "id": "c174e8f8-68fe-41f0-843e-b5455f5a89aa",
+  "name": "bestattungsart",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "b2121832-ab53-4fa1-8939-edc17606f44b",
+    "data": [
+      {
+        "text": "Dokumente ",
+        "userDefined": false
+      },
+      {
+        "text": "Bestattung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7748e754-39b0-409f-9e1d-a04e6bae5519",
+    "data": [
+      {
+        "text": "Welche Dokumente brauche ich, um ",
+        "userDefined": false
+      },
+      {
+        "text": "eine Bestattung",
+        "userDefined": false
+      },
+      {
+        "text": " durchzuführen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "57a3fc7c-2322-416a-a1cf-b209e408ec84",
+    "data": [
+      {
+        "text": "Welche Dokumente benötige ich für eine Bestattung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

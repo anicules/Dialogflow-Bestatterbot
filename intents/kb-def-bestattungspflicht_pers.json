@@ -1,0 +1,105 @@
+{
+  "id": "ddc03f67-9ee6-4b77-9feb-ced7d9ccb3e8",
+  "name": "kb-def-bestattungspflicht_pers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Bundesweit gibt es eine festgelegte Reihenfolge bestattungspflichtiger Personen:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "1. Ehegatte"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "2. Volljährige Kinder"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "3. Eltern"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "4.Volljährige Geschwister"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "5. Großeltern"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "6. Volljährige Enkelkinder"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Nicht eheliche Lebenspartner (auch eingetragene Lebenspartnerschaften) sind in den meisten Bundesländern den bestattungspflichtigen Personen gleichgestellt, obwohl sie keinen Verwandtschaftsstatus haben."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

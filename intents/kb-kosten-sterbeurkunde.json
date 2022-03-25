@@ -1,0 +1,35 @@
+{
+  "id": "b0758a9a-e2ce-424d-8504-fe016a0efefe",
+  "name": "kb-kosten-sterbeurkunde",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Das Ausstellen einer Sterbeurkunde kostet zwischen 10€ und 12€, je nach Bundesland. Falls Sie weitere Exemplare benötigen, kostet jede weitere Sterbeurkunde 5 bis 6€. Es ist empfohlen, 5 bis 10 Exemplare austellen zu lasen."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

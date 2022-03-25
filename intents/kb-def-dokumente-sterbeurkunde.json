@@ -1,0 +1,35 @@
+{
+  "id": "d24971aa-98bd-4d27-9a83-3b92a2901e77",
+  "name": "kb-def-dokumente-sterbeurkunde",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Die Sterbeurkunde wird vom Standesamt, der für den Sterbeort zuständig ist, kostenpflichtig erstellt. Dieses Dokument wird beispielsweise für Banken, Versicherungen oder für die Erstellung des Erbscheins im Original benötigt, deshalb sollte man zwischen 5 und 10 Exemplare erstellen lassen. Falls Sie keine Zeit haben, die Sterbeurkunde selbst zu beantragen, kann sich Ihr Bestatter (gegen Gebühr) darum kümmern, solange Sie diesen dafür ermächtigen."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

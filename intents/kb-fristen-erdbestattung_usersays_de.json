@@ -1,0 +1,99 @@
+[
+  {
+    "id": "4c6ac8be-8401-46d4-91f3-715e0d9dd617",
+    "data": [
+      {
+        "text": "Bis wann darf ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Erdbestattung durchgeführt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "df2b3e09-afce-4806-a8ec-ad5fd010d383",
+    "data": [
+      {
+        "text": "Gibt es Zeiten, innerhalb deren Erdbestattungen stattfinden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "62c25c80-998d-4385-b2be-e942147f4fa2",
+    "data": [
+      {
+        "text": "Wie lange nach dem Tod muss ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Erdbestattung stattfinden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4b15f681-371f-49fd-8390-961c00459844",
+    "data": [
+      {
+        "text": "Wann muss ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Erdbestattung spätestens stattfinden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8ea77090-3e57-430c-b9ab-26a684139f10",
+    "data": [
+      {
+        "text": "Welche Fristen muss ich bei ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "userDefined": false
+      },
+      {
+        "text": " Erdbestattung beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

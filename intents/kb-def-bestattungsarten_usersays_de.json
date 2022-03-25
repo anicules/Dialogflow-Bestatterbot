@@ -1,0 +1,96 @@
+[
+  {
+    "id": "3cb937c1-04c8-4e57-8120-7c7e466ab505",
+    "data": [
+      {
+        "text": "Bestattungsarten erklärt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3b7bef19-f246-4120-86cd-20f3cee1cccb",
+    "data": [
+      {
+        "text": "Welche Arten von ",
+        "userDefined": false
+      },
+      {
+        "text": "Bestattungen",
+        "userDefined": false
+      },
+      {
+        "text": " gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5255fb46-e17d-48d4-8d00-3c4c887037a3",
+    "data": [
+      {
+        "text": "Wie können ",
+        "userDefined": false
+      },
+      {
+        "text": "Bestattungen",
+        "userDefined": false
+      },
+      {
+        "text": " durchgeführt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "65442fc7-0807-4d00-a2ee-ae05f761ed17",
+    "data": [
+      {
+        "text": "Wie viele Bestattungsarten gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d0af1680-287b-414f-a68d-352a5e6b2282",
+    "data": [
+      {
+        "text": "Gibt es mehrere Bestattungsarten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f1af6b71-f0ea-4412-8653-2d0ade44fee4",
+    "data": [
+      {
+        "text": "Welche Bestattungsarten gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

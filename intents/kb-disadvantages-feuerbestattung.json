@@ -1,0 +1,45 @@
+{
+  "id": "bc9859c2-2df5-4e59-b266-fbd2687b4d9d",
+  "name": "kb-disadvantages-feuerbestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "1. Kein Abschied am Sarg (nach der Einäscherung): Nach der Einäscherung ist kein Abschied \"am offenen Sarg\" möglich. Das bedeutet, dass sie keine weitere Chance mehr haben, den Verstorbenen zu sehen."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Weniger Grabfläche zum Gestalten: Da Urnen eine kleinere Fläche bei einer Beisetzung benötigen und da bei einigen Bestattungsarten (zum Beispiel Seebestattung oder Baumbestattung) die Urne gar nicht auf einen zugänglichen Friedhof begraben wird, kann man die Grabfläche nicht mit (sehr vielen) Blumen und Grabschmuck schmücken."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

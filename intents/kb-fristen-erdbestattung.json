@@ -1,0 +1,35 @@
+{
+  "id": "46ebc2da-85ae-4f72-83e8-8207b6e9ba70",
+  "name": "kb-fristen-erdbestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "In Deutschland gelten je nach Bundesland unterschiedliche Fristen. Grundsätzlich muss eine Erdbestattung spätestens 4 bis 10 Tage nach dem Todesfall erfolgen."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

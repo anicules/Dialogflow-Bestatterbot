@@ -1,0 +1,129 @@
+[
+  {
+    "id": "261c8fee-a84c-4ba4-9519-a0a282ad3a08",
+    "data": [
+      {
+        "text": "Kosten",
+        "userDefined": false
+      },
+      {
+        "text": " Sterbeurkunde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "58a2b0b2-f508-48d3-a23c-d4394b0750b4",
+    "data": [
+      {
+        "text": "Bezahlt man für die Sterbeurkunde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "cfc86aca-9c77-490e-b9b7-9aad004159a2",
+    "data": [
+      {
+        "text": "Kostet das Ausstellen der Sterbeurkunde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f84325fb-4b57-4752-9ab7-ec5a25c24598",
+    "data": [
+      {
+        "text": "Muss ich für die Sterbeurkunde etwas bezahlen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a5a15eae-0db1-40b1-bdf4-5c2d4abfa721",
+    "data": [
+      {
+        "text": "Was sind die ",
+        "userDefined": false
+      },
+      {
+        "text": "Kosten",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "userDefined": false
+      },
+      {
+        "text": " Sterbeurkunde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0e51c57a-50c2-4977-8bd1-8399c3cbd6db",
+    "data": [
+      {
+        "text": "Wie viel ",
+        "userDefined": false
+      },
+      {
+        "text": "koste",
+        "userDefined": false
+      },
+      {
+        "text": " die Sterbeurkunde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fb05b452-d4bc-4f7f-91c5-e0c65ece8883",
+    "data": [
+      {
+        "text": "Was kostet ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Sterbeurkunde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

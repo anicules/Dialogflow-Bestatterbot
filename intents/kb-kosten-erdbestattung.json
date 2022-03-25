@@ -1,0 +1,35 @@
+{
+  "id": "694f0acd-eaf0-4b73-a391-67874fd7f9e9",
+  "name": "kb-kosten-erdbestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Die Kosten einer Erdbestattung sind aus unterschiedlichen Teilleistungen zusammengesetzt; die Preise variieren in Abhängigkeit der Qualität der jeweiligen Leistungen. Sie können grundsätzlich mit Kosten zwischen 7.500€ und 20.000€ rechnen."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

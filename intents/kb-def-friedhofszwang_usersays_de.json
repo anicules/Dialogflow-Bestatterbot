@@ -1,0 +1,278 @@
+[
+  {
+    "id": "fe81be49-8eee-4e86-8085-625d6a6b48f5",
+    "data": [
+      {
+        "text": "Wo darf man jemanden beisetzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "32a860a2-73be-4189-bdce-7669baf7cdd9",
+    "data": [
+      {
+        "text": "Was besagt ",
+        "userDefined": false
+      },
+      {
+        "text": "der Friedhofszwang",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c6e7fedf-4c60-4154-81dc-a5417144b077",
+    "data": [
+      {
+        "text": "Ist man gezwungen, ",
+        "userDefined": false
+      },
+      {
+        "text": "ein Friedhof",
+        "userDefined": false
+      },
+      {
+        "text": " für die Beisetzung zu benutzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "46a22b4b-9274-455f-b5c0-281304982e74",
+    "data": [
+      {
+        "text": "Was ist der Friedhofszwang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4f8fe481-e87f-4527-b14a-a0ed5f3c2da8",
+    "data": [
+      {
+        "text": "Warum darf man die ",
+        "userDefined": false
+      },
+      {
+        "text": "Asche",
+        "userDefined": false
+      },
+      {
+        "text": " nicht in ",
+        "userDefined": false
+      },
+      {
+        "text": "der See",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kippen",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "eaeb40ec-7d93-4f82-b206-7fef602dada2",
+    "data": [
+      {
+        "text": "Warum darf man die Urne nicht in ",
+        "userDefined": false
+      },
+      {
+        "text": "der See",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kippen",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "640c7c32-79de-42c1-b616-04f1ca94db1c",
+    "data": [
+      {
+        "text": "Warum darf man den Inhalt der Urne nicht in der ",
+        "userDefined": false
+      },
+      {
+        "text": "Luft",
+        "userDefined": false
+      },
+      {
+        "text": " verteilen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "539bb3d3-ac49-4fed-8f8e-f721d0ecb32a",
+    "data": [
+      {
+        "text": "Warum darf man nicht die ",
+        "userDefined": false
+      },
+      {
+        "text": "Asche",
+        "userDefined": false
+      },
+      {
+        "text": " in der ",
+        "userDefined": false
+      },
+      {
+        "text": "Luft",
+        "userDefined": false
+      },
+      {
+        "text": " verteilen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bb6ed845-3699-4431-b26d-40c920c62254",
+    "data": [
+      {
+        "text": "Warum darf man nicht ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Urne im ",
+        "userDefined": false
+      },
+      {
+        "text": "Wald",
+        "userDefined": false
+      },
+      {
+        "text": " beisetzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "359763b0-91c1-4239-a24a-12541014aac8",
+    "data": [
+      {
+        "text": "Warum kann man in ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "userDefined": false
+      },
+      {
+        "text": " keine Luftbestattungen durchführen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2310ee9b-bb93-4868-b695-0f8cb3e73d21",
+    "data": [
+      {
+        "text": "Warum muss die Beisetzung zwingend auf ",
+        "userDefined": false
+      },
+      {
+        "text": "ein Friedhof",
+        "userDefined": false
+      },
+      {
+        "text": " stattfinden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d8fe0664-909b-430e-b06b-ecc28ae82545",
+    "data": [
+      {
+        "text": "Muss die Beisetzung zwingend auf ",
+        "userDefined": false
+      },
+      {
+        "text": "ein Friedhof",
+        "userDefined": false
+      },
+      {
+        "text": " stattfinden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

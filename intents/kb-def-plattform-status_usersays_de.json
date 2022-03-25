@@ -1,0 +1,41 @@
+[
+  {
+    "id": "0f9cae20-0763-4757-b7af-137925bd3e1f",
+    "data": [
+      {
+        "text": "Status des Auftrags",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "69477797-b645-4be4-b563-927994936b1d",
+    "data": [
+      {
+        "text": "Status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8176461a-752e-40af-9b56-a120972c2909",
+    "data": [
+      {
+        "text": "Was bedeutet der Status meines Auftrags?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

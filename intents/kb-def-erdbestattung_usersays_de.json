@@ -1,0 +1,49 @@
+[
+  {
+    "id": "4521febf-8f77-4533-89aa-48d0167f18ff",
+    "data": [
+      {
+        "text": "Erkläre Erdbestattung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "32b2e889-d356-4f4b-8134-74cd9c598810",
+    "data": [
+      {
+        "text": "Definiere Erdbestattung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c492529b-5d02-4498-9d42-1012e8e36d85",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Erdbestattung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

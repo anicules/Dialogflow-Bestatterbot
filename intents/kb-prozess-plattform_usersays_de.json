@@ -1,0 +1,109 @@
+[
+  {
+    "id": "a873110b-b102-4613-8fd8-ad9b82dca7b5",
+    "data": [
+      {
+        "text": "Was muss ich wissen, um Bestatter zu beauftragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0ce4afbf-e78d-4bf2-9281-daaedcf37a32",
+    "data": [
+      {
+        "text": "Was brauche ich, bevor ich diese Plattform benutzen sollte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a65ec68d-0087-4209-a2a2-9525d8d8ab92",
+    "data": [
+      {
+        "text": "Was brauche ich, um Bestatter auf der Webseite zu beauftragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1b863957-9bc3-4e56-8663-2945de29469d",
+    "data": [
+      {
+        "text": "Was brauche ich, um die Webseite zu ",
+        "userDefined": false
+      },
+      {
+        "text": "benutzen",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "cd1f240c-bfae-4c10-b157-eecfa8c0b8f1",
+    "data": [
+      {
+        "text": "Wie benutze ich die Webseite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e87c0a2d-7950-43ab-b2d4-2c19cc27bd2d",
+    "data": [
+      {
+        "text": "Wie nutze ich die Plattform?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "96339345-b0b7-4eaf-a6bb-7705ea9b1888",
+    "data": [
+      {
+        "text": "Wie läuft ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "userDefined": false
+      },
+      {
+        "text": " Auftrag auf dieser Plattform ab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

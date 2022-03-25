@@ -1,0 +1,165 @@
+{
+  "id": "ed7f792f-1ee4-4c5b-bd59-a7ca2ee55017",
+  "name": "kb-def-plattform-status",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Um Ihnen einen Überblick über die Organisation der Bestattung durch den Bestatter zu verschaffen, stellen wir Ihnen in Ihrem Kundenkonto (unter \"Profil\" \\\u003e \"Meine Aufträge\") einen Status des Auftrags zur Verfügung. Diese Statusanzeige wird durch Ihren Bestatter gepflegt (dieser ist für die Aktualisierung der Anzeige zuständig)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "Der Auftrag wurde dem Bestatter geschickt. Der Auftrag wurde von dem Bestatter noch nicht angenommen, es ist noch kein bindender Vertrag zustande gekommen. Möglicherweise wird der Bestatter mit Ihnen in Kontakt treten, um bestimmte Details und Einzelheiten zu klären, bevor es losgeht mit der Planung der Bestattung.",
+                  "type": "list",
+                  "title": "Auftrag erteilt"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "title": "Vertrag abgeschlossen",
+                  "subtitle": "Der Bestatter hat mit Ihnen alle Einzelheiten geklärt und mit Ihnen ein rechtlich wirksamen Bestattungsvertrag abgeschlossen. Dadurch verpflichtet sich der Bestatter, die versprochenen Leistungen zu erbringen und Sie verpflichten sich, den Bestatter für seine Leistungen termingerecht und wie vereinbart zu bezahlen. Der Bestatter wird während der Planung und Durchführung der Bestattung den Status des Auftrags weiterhin aktualisieren."
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "Der Bestatter wird den Verstorbenen am angegebenen Termin abholen und am angegebenen Ort lagern. Im Hintergrund kümmert sich der Bestatter auch darum, das von Ihnen gewüschnte Sarg- und/oder Urnenmodell zu beschaffen.",
+                  "type": "list",
+                  "title": "Überführung festgelegt"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Verstorbener wurde überführt",
+                  "subtitle": "Der Bestatter hat die Überführung erfolgreich durchgeführt und lagerte den Verstorbenen. Im nächsten Schritt wird der Verstorbene kosmetisiert und nach ihrem Wunsch angezogen.",
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "Der Bestatter hat zusammen mit Ihnen den Beisetzungsort und den Termin festgelegt. Der genaue Termin und der Ort wird hier angezeigt.",
+                  "title": "Beisetzungsort und Termin festgelegt",
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "Der Bestatter hat zusammen mit Ihnen den Kremationsort und den Termin festgelegt. Diese werden nun angezeigt. Dieser Status ist nur dann Verfügbar, wenn Sie sich für eine Feuerbestattung entschieden haben.",
+                  "type": "list",
+                  "title": "Einäscherungsort und Termin festgelegt"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "subtitle": "Der Bestatter hat einen den angegebenen und Termin für die Trauerfeier reseviert. Dieser Status ist nur dann verfügbar, wenn der Bestatter auch eine Trauerfeier für Sie organisieren musste.",
+                  "title": "Ort und Termin der Trauerfeier steht fest"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "title": "Vorbereitung der Trauerfeier läuft",
+                  "subtitle": "Der Bestatter hat einen den angegebenen und Termin für die Trauerfeier reseviert. Dieser Status ist nur dann verfügbar, wenn der Bestatter auch eine Trauerfeier für Sie organisieren musste."
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "Der Bestatter hat eine Ortschaft für den Trauerkaffee zu einem Termin gebucht. Dieser Status ist nur dann verfügbar, wenn der Bestatter ein Trauerkaffee für Sie organisieren musste.",
+                  "title": "Ort und Termin des Trauerkaffees steht fest",
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "Die Trauerfeier fand statt. Der Bestatter wird Ihnen alle Medien (z.B. Photos, Videos, Live-Streams) Kondolenzen digital zur Verfügung stellen, falls so vereinbart. Es folgt eine Beisetzung und (falls so vereinbart), ein Trauerkaffee. Dieser Status ist nur dann verfügbar, wenn der Bestatter auch eine Trauerfeier für Sie organisieren musste.",
+                  "title": "Trauerfeier beendet",
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Beisetzung beendet",
+                  "type": "list",
+                  "subtitle": "Die Beisetzung fand statt. Es folgt ein Trauerkaffee."
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Trauerkaffee beendet",
+                  "type": "list",
+                  "subtitle": "Der Trauerkaffee fand statt. Medien (z.B. Photos, Videos, Live-Streams) und Kondolenzen werden Ihnen digital zur Verfügung gestellt. Dieser Status ist nur dann verfügbar, wenn der Bestatter ein Trauerkaffee für Sie organisieren musste."
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "Falls Sie auch andere Leistungen mit dem Bestatter vereinbart haben, werden diese nun erbracht. Der Bestatter hat die Möglichkeit, zu diesem Status mehr Details auf unserer Plattform zu geben.",
+                  "title": "Weitere Leistungen werden erbracht",
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "title": "Zahlung steht aus",
+                  "subtitle": "Der Bestatter muss für seine Leistungen beglichen werden und signalisiert mit diesem Status, dass seine Zahlung noch aussteht."
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "title": "Auftrag abgeschlossen",
+                  "subtitle": "Der Auftrag wurde abgeschlossen. Das bedeutet, dass der Bestatter alle seine Leistungen vertragsgemäß erbracht hat."
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

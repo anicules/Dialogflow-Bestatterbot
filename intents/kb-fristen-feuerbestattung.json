@@ -1,0 +1,35 @@
+{
+  "id": "8cd337c8-6d81-411b-84b5-5c984f3b00b3",
+  "name": "kb-fristen-feuerbestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Auch bei einer Feuerbestattung gibt es unterschiedliche Fristen je Bundesland. Grundsätzlich darf die Einäscherung spätestens 2 bis 10 Tage nach dem Todesfall erfolgen. Die anschließende Beisetzung darf 1 bis zu 6 Monate später stattfinden."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

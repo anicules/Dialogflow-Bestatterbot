@@ -1,0 +1,125 @@
+[
+  {
+    "id": "05dc87bf-7c83-4983-99c7-c1a640338e35",
+    "data": [
+      {
+        "text": "Ich möchte mehr über Feuerbestattungen wissen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8ee93600-c843-4f95-aced-c548ab39da13",
+    "data": [
+      {
+        "text": "Ich verstehe Feuerbestattung nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "af9926d5-894c-4ace-bf24-22173dd75d30",
+    "data": [
+      {
+        "text": "Beschreibe die typische Feuerbestattung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d71e098c-201e-4590-b477-60da31cd9a4d",
+    "data": [
+      {
+        "text": "Wie geht man bei ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "userDefined": false
+      },
+      {
+        "text": " Feuerbestattung vor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b58f6066-3f34-4b21-bc4f-900a1490e2a1",
+    "data": [
+      {
+        "text": "Was passiert bei ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "userDefined": false
+      },
+      {
+        "text": " Feuerbestattung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "682680a7-4254-4e37-b2ab-1fef9e031d2f",
+    "data": [
+      {
+        "text": "Was ist der Ablauf ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "userDefined": false
+      },
+      {
+        "text": " Feuerbestattung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4b4d6ebb-6905-4bf7-88d8-4ebc6b10cdf9",
+    "data": [
+      {
+        "text": "Wie läuft ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Feuerbestattung ab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

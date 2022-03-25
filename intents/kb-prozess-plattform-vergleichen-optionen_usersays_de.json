@@ -1,0 +1,67 @@
+[
+  {
+    "id": "c67e34a3-3462-4563-8745-ca50a7c50d3b",
+    "data": [
+      {
+        "text": "Welche Optionen stehen zur Auswahl?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "acdb949a-338f-46cd-8bb2-489fc19163d3",
+    "data": [
+      {
+        "text": "Was kann ich auswählen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c4ae795d-c48a-43d4-8aae-348517439bc5",
+    "data": [
+      {
+        "text": "Welche Aspekte einer Bestattung lassen sich auswählen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8492c07b-778c-4722-95b6-e775470f529a",
+    "data": [
+      {
+        "text": "Was kann personalisiert werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7e7a0281-e02a-4b03-9c55-0c2dd3f19546",
+    "data": [
+      {
+        "text": "Welche Optionen stehen für die Personalisierung zur Verfügung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

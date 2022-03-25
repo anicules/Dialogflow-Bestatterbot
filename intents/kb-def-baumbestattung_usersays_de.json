@@ -1,0 +1,104 @@
+[
+  {
+    "id": "81b1887f-0951-4f52-8710-473a1fae997d",
+    "data": [
+      {
+        "text": "Erzähle mir über Baumbestattungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3dbfc9c5-a02b-4322-b631-cd58c0cc6c19",
+    "data": [
+      {
+        "text": "Definiere Baumbestattungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "63c20217-c38c-46fa-a6d3-e21b9f2b2024",
+    "data": [
+      {
+        "text": "Erkläre Baumbestattungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ced57917-a9d5-49fa-8a85-078af914ac03",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "anders",
+        "userDefined": false
+      },
+      {
+        "text": " bei Baumbestattungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6442638b-9c23-4663-ac32-c1a47d22c7e3",
+    "data": [
+      {
+        "text": "Was passiert bei ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "userDefined": false
+      },
+      {
+        "text": " Baumbestattung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "dad516e2-c4b7-46b6-98d7-e66ce5579b1f",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Baumbestattung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

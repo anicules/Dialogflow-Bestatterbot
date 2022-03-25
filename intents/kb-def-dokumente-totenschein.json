@@ -1,0 +1,35 @@
+{
+  "id": "35fa3067-88ab-49c2-9a24-86b2c84997de",
+  "name": "kb-def-dokumente-totenschein",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Der Totenschein wird von einem Arzt erstellt. Der Totenschein enthält die Personalien des Verstorbenen, die Todesursache (die nur durch einen Arzt begutachtet werden kann) sowie den Zeitpunkt des Todes. Ein anderer Name für den Totenschein ist Totenbescheinigung. Falls der Sterbefall in einem Krankenhaus oder in einer Pflegeeinrichtung eintritt, wird der Totenschein automatisch erstellt. Der Totenschein ist eines der ersten Sachen, die man schnellstmöglich nach dem Sterbefall klären muss."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

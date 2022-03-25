@@ -1,0 +1,234 @@
+{
+  "id": "c60bbf7b-97b3-448e-ba48-31c6715d3a03",
+  "name": "AngeboteVergleichen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aee750c0-74ca-48cf-80e9-19aa5d016876",
+          "name": "bestattungsart",
+          "required": true,
+          "dataType": "@bestattungsart",
+          "value": "$bestattungsart",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Bitte geben Sie die gewünschte Bestattungsart ein. \nBitte geben Sie eine der folgenden Optionen ein: \n- \"erdbestattung\"\n- \"urnenbestattung\"\n- \"baumbestattung\"\n- \"seebestattung\"."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9810c026-8a53-46a6-b5be-806987a5deb7",
+          "name": "sargurne",
+          "required": true,
+          "dataType": "@sarg-urne",
+          "value": "$sargurne",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Beachten Sie, dass für Erdbestattungen ein Sarg benötigt wird, für alle anderen Bestattungsarten wird eine Urne benötigt. \n\nGeben Sie entweder \"sarg\" oder \"urne\" ein."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b7290980-1b51-402a-80c6-efc664b2f20e",
+          "name": "sarg-urne-art",
+          "required": true,
+          "dataType": "@sarg-urne-art",
+          "value": "$sarg-urne-art",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Folgende Optionen stehen für die Art des Sarges oder der Urne zur Auswahl. Geben sie eine davon ein:\n- \"schlicht\"\n- \"normal\" \n- \"premium\"\n- \"umweltfreundlich\"\n- \"selbst_gestalten\""
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e4a76c84-efec-4645-bbcd-dcc166216447",
+          "name": "plz",
+          "required": true,
+          "dataType": "@sys.zip-code",
+          "value": "$plz",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Geben Sie die Postleitzahl, wo der Verstorbene abgeholt werden muss, ein."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "20a7668d-1dfd-40b6-9d55-7e4135784161",
+          "name": "friedhof",
+          "required": true,
+          "dataType": "@friedhof",
+          "value": "$friedhof",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Geben Sie den Namen des Friedhofs ein, wo die Beisetzung stattfinden soll."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "036fc74f-a0d9-4f0a-9323-73b9dc78fcd9",
+          "name": "blumen_deko",
+          "required": true,
+          "dataType": "@blumen-deko",
+          "value": "$blumen_deko",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Falls der Bestatter Blumen und Dekorationen beschaffen soll, geben Sie eine der folgenden Varianten ein:\n- \"minimalistisch\"\n- \"normal\"\n- \"reichlich\"\n\nSonst geben sie \"keine\" ein."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "465a5d39-682d-471f-95e8-f2e62cd65d1c",
+          "name": "trauerfeier",
+          "required": true,
+          "dataType": "@trauerfeier",
+          "value": "$trauerfeier",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Soll der Bestatter eine Trauerfeier organisieren?\n\nFalls ja, geben Sie \"true\" ein.\nSonst geben Sie \"false\" ein."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3b4c5d97-bf33-4a02-9152-a3dad82ad048",
+          "name": "trauerkaffee",
+          "required": true,
+          "dataType": "@trauerkaffee",
+          "value": "$trauerkaffee",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Soll der Bestatter ein Trauerkaffe organisieren?\n\nFalls ja, geben Sie \"true\" ein.\nSonst geben sie \"false\" ein."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c8023d42-fb08-4d67-84be-faacc7d71264",
+          "name": "trauerdruck",
+          "required": true,
+          "dataType": "@trauerdruck",
+          "value": "$trauerdruck",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Soll der Bestatter Trauerdruck bereitstellen?\n\nFalls ja, geben Sie \"true\" ein.\nFalls nein, geben Sie \"false\" ein."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Sie haben folgendes eingegeben: \n- $bestattungsart \n- $sargurne\n- $sarg-urne-art\n- Abholung in $plz\n- Friedhof $friedhof\n- Blumen $blumen_deko\n- Trauerfeier $trauerfeier\n- Trauerkaffee $trauerkaffee\n- Trauerdruck $trauerdruck"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "image": {
+                        "src": {
+                          "rawUrl": "http://localhost/BaaS-WI-MA-P-Website/Artefacts/dove.svg"
+                        }
+                      },
+                      "link": "http://localhost/BaaS-WI-MA-P-Website/vergleichen-results.php?best-art\u003d$bestattungsart\u0026ort\u003d$plz\u0026blumen\u003d$blumen_deko\u0026$sargurne\u003d$sarg-urne-art\u0026friedhof\u003d$friedhof\u0026trauerfeier\u003d$trauerfeier\u0026trauerkaffee\u003d$trauerkaffee\u0026trauerdruck\u003d$trauerdruck",
+                      "text": "Bestatterangebote einzusehen"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

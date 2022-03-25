@@ -1,0 +1,35 @@
+{
+  "id": "ca5ae6c7-0fb6-47ba-ab25-75dd17718f48",
+  "name": "kb-obtain-sterbeurkunde",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Das Standesamt benötigt für die Sterbeurkunde unbedingt den Totenschein und den Personalausweis des Verstorbenen. Je nach Lebensstand des Verstorbenen werden außerdem folgende Dokumente benötigt:\n- Lediglich: Geburtsurkunde\n- Verheiratet: Heiratsurkunde\n- Geschiedene: Heiratsurkunde und rechtskräftiges Scheidungsurteil\n- Verwitwete: Heiratsurkunde und Sterbeurkunde des Ehepartners"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

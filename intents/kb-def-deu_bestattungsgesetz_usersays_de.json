@@ -1,0 +1,146 @@
+[
+  {
+    "id": "3f880b94-27d4-4eb0-bbd1-0e46222bd254",
+    "data": [
+      {
+        "text": "Was ist der Inhalt der Bestattungsgesetze?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "358673fc-43e3-4aa3-81b7-d2618be4ae5e",
+    "data": [
+      {
+        "text": "Was besagen Bestattungsgesetze?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "beeb38c2-6041-42d5-a791-2ca7d1d5b7d7",
+    "data": [
+      {
+        "text": "Sind Bestattungsgesetze ",
+        "userDefined": false
+      },
+      {
+        "text": "anders",
+        "userDefined": false
+      },
+      {
+        "text": " je ",
+        "userDefined": false
+      },
+      {
+        "text": "Bundesland",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d1575c06-c624-4135-88d2-f8bd93c90318",
+    "data": [
+      {
+        "text": "Gibt es Bestattungsgesetze?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8a785c41-bc5d-4a82-9646-c7c3d60de710",
+    "data": [
+      {
+        "text": "Was sind Bestattungsgesetze?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "18be3810-beef-4048-a808-128cdecc4f9c",
+    "data": [
+      {
+        "text": "Welche Gesetze muss man bei ",
+        "userDefined": false
+      },
+      {
+        "text": "Bestattungen",
+        "userDefined": false
+      },
+      {
+        "text": " beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "12916647-5ae8-47bd-8cc5-9f52a747900b",
+    "data": [
+      {
+        "text": "Gibt es gesetzliche Rahmen für ",
+        "userDefined": false
+      },
+      {
+        "text": "Bestattungen",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d6dc19ff-25c8-4a95-92ac-79ffbe9a374a",
+    "data": [
+      {
+        "text": "Welche Gesetze regeln ",
+        "userDefined": false
+      },
+      {
+        "text": "Bestattungen in Deutschland",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

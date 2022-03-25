@@ -1,0 +1,103 @@
+{
+  "id": "007c3f91-18d8-404a-bd3f-1caffc915476",
+  "name": "kb-prozess-plattform-vergleichen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Um Ihre gewünschten Bestatterleistungen auszuwählen, besuchen Sie die Seite unten verlinkte Seite. Füllen Sie dort den Fragebogen aus und schicken Sie diesen ab. Anschließend können Sie Leistungen samt Preise der jeweiligen Bestatter in Ihrer Umgebung einsehen und beauftragen."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "actionLink": "http://localhost/BaaS-WI-MA-P-Website/vergleichen.php",
+                  "type": "info",
+                  "subtitle": "Nutzen sie unsere Plattform, um Bestatterangebote zu vergleichen",
+                  "title": "Bestatterangebote vergleichen",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://localhost/BaaS-WI-MA-P-Website/Artefacts/dove.svg"
+                    }
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Alternativ kann ich diesen den Fragebogen für Sie ausfüllen. Geben Sie \"angebote vergleichen\" ein, um zu starten."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Damit Sie Bestatter beauftragen, müssen Sie ein kostenloses Konto erstellen. Dies können Sie auf folgende Seite machen:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "Registrieren Sie sich oder melden Sie sich an, um Bestatter zu beauftragen",
+                  "title": "Konto erstellen",
+                  "type": "info",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://localhost/BaaS-WI-MA-P-Website/Artefacts/dove.svg"
+                    }
+                  },
+                  "actionLink": "http://localhost/BaaS-WI-MA-P-Website/register.php"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a7c9e860-25a8-44b5-97ce-bd3c95e4a525",
+  "name": "kb-def-bestattungsarten",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Es gibt 2 \"Haupt\"-Arten von Bestattungen: Erdbestattungen und Feuerbestattungen. Dabei wird der Begriff \"Feuerbestattung\" meist mit der Bedeutung \"Urnenbestattung\" verwendet. Als untergeordnete Arten der Feuerbestattung unterscheidet man auch die Urnenbestattung, die Seebestattung oder die Baumbestattung. Es gibt allerdings auch andere Feuerbestattungsarten. Eigentlich ist die Feuerbestattung lediglich die Einäscherung des Verstorbenen, die Urnenbestattung die Beisetzung der Urne auf einem Friedhof. Die Urne kann auch im Meer (Seebestattung) oder im Wurzelbereich eines Baumes (Baumbestattung) beigesetzt werden."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

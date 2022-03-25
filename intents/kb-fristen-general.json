@@ -1,0 +1,115 @@
+{
+  "id": "9a218e00-502f-4b9a-bdd1-68437a0e9f45",
+  "name": "kb-fristen-general",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Das Bestattungsgesetz legt bestimmte Zeitrahmen fest, die zwischen dem Todesfall und der Überführung des Verstorbenen in eine geeignete Leichenhalle nicht überschritten werden müssen. Diese Zeitrahmen unterscheiden sich von Bundesland zu Bundesland."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "a. Spätestens innerhalb der ersten 24 bis 48 Stunden nach dem Tod (je nach Bundesland) muss:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "- Jeder Verstorbene von einem Arzt untersucht werden. Der Arzt erstellt ein Totenschein, der die Personalien des Verstorbenen (wie auf dem Personalausweis), die festgestellte Todesursache, sowie den Zeitpunkt des Todes enthält. Der Totenschein wird auch Totenbescheinigung genannt. Der Totenschein wird automatisch erstellt, falls der Sterbefall in einem Krankenhaus oder Pflegeheim eintritt."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "- Der Tod jeder Person dem Standesamt, in dessen Zuständigkeitsbereich diese Person gestorben ist, gemeldet werden (falls eine Person in einer Einrichtung wie ein Krankenhaus, Altersheim o.Ä. stirbt, kümmert sich die jeweilige Einrichtung darum). Das Standesamt erstellt die Sterbeurkunde."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "- Erst nach Ausstellung des Totenscheins ein Bestattungsunternehmen beauftragt werden. Der Bestatter überführt den Verstorbenen in einen Kühlraum/Leichenaufbewahrungsraum oder in ein Leichenhaus auf einem Friedhof. Wir empfehlen Ihnen zu prüfen, ob der Verstorbene eine Sterbegeldversicherung oder ein Vorsorgevertrag mit einem Bestattungsinstitut bereits abgeschlossen hatte."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "b. Innerhalb der ersten 72 Stunden müssen folgende Organisationen über den Todesfall informiert werden:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "- Krankenkasse"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "- Rentenversicherung"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "- Arbeitgeber"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

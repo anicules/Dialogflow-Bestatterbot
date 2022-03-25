@@ -1,0 +1,35 @@
+{
+  "id": "f5068129-4c32-4072-9f44-2e5b016dc79b",
+  "name": "kb-def-seebestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Bei einer Seebestattung wird Verstorbene kremiert, die Asche die hinterbleibt wird in eine spezielle Seeurne gesammelt. Die Urne wird auf der Nord- oder Ostsee im offenen Meer beigesetzt."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

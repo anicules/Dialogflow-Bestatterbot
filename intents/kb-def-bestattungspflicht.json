@@ -1,0 +1,35 @@
+{
+  "id": "aaff0067-5603-4dec-90f0-212bc13b796a",
+  "name": "kb-def-bestattungspflicht",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "In allen deutschen Bundesländern gilt die sogenannte Bestattungspflicht. Diese besagt, dass Verstorbene innerhalb bestimmter Fristen \"ordentlich\" zu bestatten sind. Es ist ebenfalls festgelegt, dass die Angehörigen des Verstorbenen die Bestattung organisieren müssen und die Kosten dieser tragen müssen. Wenn die Angehörigen sich nicht rechtzeitig darum kümmern, muss das Bezirksamt die Bestattung durchführen."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "100ad97e-fb4e-4b80-a848-9f3224006f33",
+  "name": "kb-prozess-erdbestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7527d422-8bd9-40d2-8bdd-f32c21eb5cff",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Falls Sie sich für eine Erdbestattung entscheiden, haben sie die Möglichkeit, eine Trauerfeier vor der Beisetzung zu organisieren. Die Trauerfeier kann bis zu einer Stunde dauern und wird, falls Sie dies wünschen, von dem Bestatter organisiert werden. Die Trauerfeier kann in der Kapelle oder Trauerhalle des Friedhofs, in einer Kirche, im Bestattungsinstitut, zu Hause oder in andere geeignete Räumlichkeiten, stattfinden. Meistens gibt es während der Trauerfeier eine Rede. Diese Rede kann von einem Geistlichen, einem professionellen Trauerredner oder von einer Person aus dem privaten Umfeld des Verstorbenen durchgeführt werden. Der Redner schneidet die Rede auf die verstorbene Person zu. Auch Musik kann abgespielt werden. Falls die Trauerfeier in einer Kirche oder Friedhofskapelle stattfindet, kann ein Organist die Zeremonie begleiten. Auch andere Instrumentisten oder sogar Bands können eingeladen werden. Falls man die Musikstücke selbst ausgewählt, sollten diese den Charakter des Verstorbenen widerspiegeln. Falls Sie sich keine Trauerfeier wünschen, kann darauf verzichtet werden. Dadurch, dass sie keine Trauerfeier oder aber die Planung und Organisation dieser selbst übernehmen, können Sie Kosten einsparen."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

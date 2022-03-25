@@ -1,0 +1,151 @@
+[
+  {
+    "id": "d146a4eb-8079-4157-ab14-d377a570e40b",
+    "data": [
+      {
+        "text": "Was muss innerhalb ",
+        "userDefined": false
+      },
+      {
+        "text": "der ersten 3",
+        "userDefined": false
+      },
+      {
+        "text": " Tagen nach dem Tod tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "99d1ab9c-43ef-481c-9097-83e386e93aaa",
+    "data": [
+      {
+        "text": "Was muss ich innerhalb ",
+        "userDefined": false
+      },
+      {
+        "text": "der ersten 2",
+        "userDefined": false
+      },
+      {
+        "text": " Tagen nach dem Tod tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b465c49e-37c0-4122-a893-48c48fb3b9b6",
+    "data": [
+      {
+        "text": "Was muss ich machen, wenn jemand verstorben ist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "dc33c3ca-f070-4448-a074-5df3c56536ba",
+    "data": [
+      {
+        "text": "Was muss ich als ",
+        "userDefined": false
+      },
+      {
+        "text": "erstes",
+        "userDefined": false
+      },
+      {
+        "text": " nach ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "userDefined": false
+      },
+      {
+        "text": " Todesfall machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b71e2ab9-54c8-4ba2-a1e0-359d0d938bd3",
+    "data": [
+      {
+        "text": "Welches Gesetz regelt die Fristen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2acf11a4-861f-4f59-b5e5-c99bc93ad879",
+    "data": [
+      {
+        "text": "Wo sind die Fristen definiert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6691fe89-2743-4257-8496-7319320be336",
+    "data": [
+      {
+        "text": "Muss ich bestimmte Fristen beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0209aece-62b4-4d69-b55e-7164da373183",
+    "data": [
+      {
+        "text": "Wann muss ich was machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "238a1275-8cc1-4dad-a913-ad89e9fcc0a4",
+    "data": [
+      {
+        "text": "Welche Fristen sind zu beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

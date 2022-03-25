@@ -1,0 +1,104 @@
+[
+  {
+    "id": "28aee668-2a48-4d2a-a7d9-2516b5ab9638",
+    "data": [
+      {
+        "text": "Erzähle mir über Seebestattungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bb46a855-3b03-4d0d-940c-906cf06cc566",
+    "data": [
+      {
+        "text": "Definiere Seebestattung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7bf78ad6-2f71-432d-aabe-8ef4b1719fbd",
+    "data": [
+      {
+        "text": "Erkläre Seebestattungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d58000ed-2ddb-44fb-a788-c25b68302534",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "anders",
+        "userDefined": false
+      },
+      {
+        "text": " bei Seebestattungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c914221b-c7f2-4c2b-9436-58c3d4634434",
+    "data": [
+      {
+        "text": "Was passiert bei ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "userDefined": false
+      },
+      {
+        "text": " Seebestattung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "bb1a14ae-ee1d-43db-b3c8-a743829e8c72",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Seebestattung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

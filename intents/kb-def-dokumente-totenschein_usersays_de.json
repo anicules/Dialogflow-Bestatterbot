@@ -1,0 +1,156 @@
+[
+  {
+    "id": "a1394897-8369-4403-bb85-fb4bc35e4a2a",
+    "data": [
+      {
+        "text": "Welche Daten sind auf dem Totenschein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f47fc2a1-e11b-4382-8770-d54e05eecc71",
+    "data": [
+      {
+        "text": "Was enthält der Totenschein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "42b8faca-cb63-466e-91c8-d665d11b402f",
+    "data": [
+      {
+        "text": "Bekomme ich den Totenschein vom ",
+        "userDefined": false
+      },
+      {
+        "text": "Arzt",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "45833f01-56a8-428a-8f8b-c950c87cae18",
+    "data": [
+      {
+        "text": "Ist der Totenschein wichtig?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4ddcb32c-c4f6-4e59-afaf-58894976a99f",
+    "data": [
+      {
+        "text": "Informationen Totenschein",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "55e67d02-f36f-46b5-ae23-435c35eefbd2",
+    "data": [
+      {
+        "text": "Bekomme ich automatisch den Totenschein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d2ee926e-d8be-41b9-b3b9-f548c5569bfd",
+    "data": [
+      {
+        "text": "Wer stellt den Totenschein aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e538d27d-604d-4ab2-8b47-642881d46b00",
+    "data": [
+      {
+        "text": "Wie bekomme ich ien Totenschein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "06d2133b-3c46-441c-8dd4-e17311fdb49d",
+    "data": [
+      {
+        "text": "Wie erhalte ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "userDefined": false
+      },
+      {
+        "text": " Totenschein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9bfa9045-9a8c-4d97-b57c-415b6d8c0b9d",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "userDefined": false
+      },
+      {
+        "text": " Totenschein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

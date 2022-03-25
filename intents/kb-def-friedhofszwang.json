@@ -1,0 +1,35 @@
+{
+  "id": "9d7b89f3-513f-4d1a-b0f3-8e4857397e43",
+  "name": "kb-def-friedhofszwang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Der Friedhofszwang ist ein Bestandteil des deutschen Bestattungsgesetzes. Der Friedhofszwang besagt, dass Verstorbene nur auf Friedhöfe oder genehmigte Bestattungsflächen (zum Beispiel Bestattungswälder oder bestimmte Bereiche der Nord- oder Ostsee)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

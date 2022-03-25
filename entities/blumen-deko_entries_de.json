@@ -1,0 +1,38 @@
+[
+  {
+    "value": "keine",
+    "synonyms": [
+      "keine",
+      "Keine Blumen und Dekorationen",
+      "nichts",
+      "nein"
+    ]
+  },
+  {
+    "value": "minimalistisch",
+    "synonyms": [
+      "minimalistisch",
+      "nicht viele",
+      "wenige",
+      "billig",
+      "simpel"
+    ]
+  },
+  {
+    "value": "normal",
+    "synonyms": [
+      "normal",
+      "standard",
+      "üblich",
+      "typisch"
+    ]
+  },
+  {
+    "value": "reichlich",
+    "synonyms": [
+      "reichlich",
+      "viele",
+      "teuer"
+    ]
+  }
+]

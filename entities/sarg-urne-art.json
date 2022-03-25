@@ -1,0 +1,9 @@
+{
+  "id": "c2f5740e-57f6-47a6-9834-f5a0ad72ca2e",
+  "name": "sarg-urne-art",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

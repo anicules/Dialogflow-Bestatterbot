@@ -1,0 +1,112 @@
+{
+  "id": "f6e0fbd6-1993-4bec-9705-007b391a4eef",
+  "name": "kb-prozess-plattform-vergleichen-optionen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Auf unsere Plattform können aktuell folgende Aspekte einer Bestattung konfiguriert werden:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "Wo befindet sich der Verstorbene?",
+                  "type": "list",
+                  "title": "Postleitzahl des Sterbeorts"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "Soll eine Erdbestattung, eine Feuerbestattung, eine Seebestattung oder eine Baumbestattung organisiert werden?",
+                  "title": "Art der Bestattung",
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "subtitle": "Zur Verfügung stehen einfache, normale, premium oder umweltfreundliche Urnen und Särge",
+                  "title": "Art des Sarges oder der Urne"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "subtitle": "Wo soll der Verstorbene beigesetzt werden?",
+                  "title": "Friedhof"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "Soll der Bestatter eine Trauerfeier organisieren?",
+                  "title": "Trauerfeier",
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Blumen und Dekorationen",
+                  "type": "list",
+                  "subtitle": "Soll der Bestatter Blumen und andere Dekorationen beschaffen? In welcher Menge?"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Trauerkaffee",
+                  "type": "list",
+                  "subtitle": "Soll der Bestatter ein Trauerkaffee organisieren?"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "subtitle": "Soll der Bestatter Trauerdruck erstellen?",
+                  "title": "Trauerdruck"
+                },
+                {
+                  "type": "divider"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

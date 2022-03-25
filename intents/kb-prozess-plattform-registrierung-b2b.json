@@ -1,0 +1,59 @@
+{
+  "id": "8397ae34-aee2-4843-81cf-1138483ae3b0",
+  "name": "kb-prozess-plattform-registrierung-b2b",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Damit Sie sich als Bestatter auf unserer Plattform registrieren können, müssen Sie das Formular auf folgende Seite ausfüllen und absenden. Ihr Kundenkonto wird dann sofort erstellt. Nachdem Sie sich registriert haben, müssen Sie sich anmelden und aus Ihrem Profil Ihre Bestatterleistungen konfigurieren."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "actionLink": "http://localhost/BaaS-WI-MA-P-Website/register-bestatter.php",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://localhost/BaaS-WI-MA-P-Website/Artefacts/dove.svg"
+                    }
+                  },
+                  "subtitle": "Registrieren Sie sich oder melden Sie sich an, um Bestatter zu beauftragen",
+                  "type": "info",
+                  "title": "Bestatterkonto erstellen"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

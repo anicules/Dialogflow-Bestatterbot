@@ -1,0 +1,9 @@
+{
+  "id": "b2de8378-f14e-4ca7-b6cc-70af7b424f36",
+  "name": "friedhof",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

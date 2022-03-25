@@ -1,0 +1,54 @@
+[
+  {
+    "id": "0848972a-e3f2-4ee5-8edc-9a7430c9c2a6",
+    "data": [
+      {
+        "text": "Bestatterleistungen personalisieren Voraussetzungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6d54a32d-751a-4dbc-bd37-a5fa946e4059",
+    "data": [
+      {
+        "text": "Was muss ich machen, um Preise zu sehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6a0cc140-0826-4aa7-ae48-c98964e34a8d",
+    "data": [
+      {
+        "text": "Wie vergleiche ich die Angebote?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d21db4a7-d16f-4bf9-96ed-e187c8671178",
+    "data": [
+      {
+        "text": "Wie kann ich Bestatterleistungen personalisieren und ihre Angebote vergleichen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

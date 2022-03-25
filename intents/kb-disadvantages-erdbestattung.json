@@ -1,0 +1,55 @@
+{
+  "id": "34414c07-906d-4a55-9a65-d20a4d2d73ac",
+  "name": "kb-disadvantages-erdbestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "1. Zeitdruck: Die rechtlichen Rahmen legen kurze Fristen (wenige Tage) für Erdbestattungen fest. Innerhalb dieser Fristen müssen die Angehörigen viele Entscheidungen treffen, Dokumente beantragen und die Trauerfeier, die Beisetzung und den Trauerschmaus planen."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "2. Hohe Kosten: Erdbestattungen sind deutlich teurer als Feuerbestattungen. Gründe dafür sind der Sarg, die Friedhofsgebühren, aber auch der Grabstein und die langfristige Pflege des Grabes."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "3. Wenige Grabarten: Auf den meisten Friedhöfen darf man sich oft nur zwischen einem Reihengrab oder einem Wahlgrab entscheiden. Wiesengräber oder Gruftbestattungen stehen nicht überall zur Verfügung."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

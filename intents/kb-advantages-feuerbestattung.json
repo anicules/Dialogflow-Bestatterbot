@@ -1,0 +1,55 @@
+{
+  "id": "4738ef98-9e57-4f65-9cb8-74d551c86fef",
+  "name": "kb-advantages-feuerbestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "1. Kein Zeitdruck: Die Bestattungsgesetze der Bundesländer regeln die Frist, innerhalb der die Einäscherung stattfinden soll. Diese Frist beträgt zwischen 2 und 10 Tage. Die Beisetzung, Trauerfeier usw. dürfen deutlich später stattfinden. Das erlaubt ihnen mehr Spielraum bei der Gestaltung der Beisetzung und resultiert in weniger Stress insgesamt."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "2. Geringere Kosten: Dadurch das für Feuerbestattungen kein Sarg, kein großes Grab oder (in manchen Fällen) kein Grabstein benötigt werden, fallen auch die Kosten Bestattungen dieser Art geringer aus."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "3. Viele Beisetzungsmöglichkeiten nach der Einäscherung: Nach der Einäscherung können Sie sich entscheiden, was für eine Beisetzung geplant werden soll: eine Urnenbestattung, eine Baumbestattung oder eine Seebestattung (es gibt noch weitere Bestattungsarten). Diese Beisetzungsarten können an den Vorlieben und Präferenzen des Verstorbenen angepasst werden."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

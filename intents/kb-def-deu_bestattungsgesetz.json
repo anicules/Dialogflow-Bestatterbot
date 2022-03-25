@@ -1,0 +1,35 @@
+{
+  "id": "fa411ca0-0840-487b-89bd-b4b8efae239c",
+  "name": "kb-def-deu_bestattungsgesetz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "In Deutschland gibt es landeseigene Bestattungsgesetze. Diese Gesetze ähneln sich inhaltlich und regeln die Bestattungspflicht, den Friedhofszwang und Fristen. Auch Themen wie die Ausstellung des Totenscheins durch Ärzte werden geregelt."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

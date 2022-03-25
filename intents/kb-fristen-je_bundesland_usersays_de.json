@@ -1,0 +1,464 @@
+[
+  {
+    "id": "25fe39a0-af48-492b-bb6e-028da8071c69",
+    "data": [
+      {
+        "text": "Bis wann muss ",
+        "userDefined": false
+      },
+      {
+        "text": "der Arzt",
+        "userDefined": false
+      },
+      {
+        "text": " den Totenschein ausstellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "675571b4-790a-4be7-9279-0976139278c1",
+    "data": [
+      {
+        "text": "Wann muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "den Arzt",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "rufen",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4d44193c-841b-492c-bc10-0ce02690a081",
+    "data": [
+      {
+        "text": "Wann muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "das Standesamt",
+        "userDefined": false
+      },
+      {
+        "text": " über den Tod informieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8ba0157e-b94a-4058-b9a7-8899d18c78b3",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bremen",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6eb13c9d-c9fb-46e2-b12d-f74703262e47",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bayern",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ff003751-8566-4d57-8460-4c67a2159f3f",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Thüringen",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7d8112a2-2c09-49dc-b49b-7e8474b1bc22",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Schleswig-Holstein",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a419070e-7414-4229-9545-9799b9f231f3",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Sachsen-Anhalt",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2a1a2924-0d85-4219-bb9d-b6574a9769b4",
+    "data": [
+      {
+        "text": "Welche Fristen gelten im ",
+        "userDefined": false
+      },
+      {
+        "text": "Saarland",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "b6ac03db-0690-4485-b592-7bd96bd7c2ac",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Rheinland-Pfalz",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "223ff112-71de-43e7-be09-ffd101854d5f",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Nordrein-Westfalen",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c0893657-d4a2-458a-aabd-a25409160e7d",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Niedersachsen",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "75d63193-48ef-478d-87f1-1b0f699db16c",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mecklenburg-Vorpommern",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "14b04a16-c154-4773-92cb-a2cf3642bee8",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hessen",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c848ddab-1701-4c85-a251-33d8cf19a582",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Hamburg",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "58c2b4ba-43cd-4784-b540-80f1a2b3a866",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c67df130-6756-434e-97b2-261a72b3fbce",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Baden-Württemberg",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "12904a77-4713-43f6-9514-6ad394abed9d",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Sachsen",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "08623340-f5b3-4e90-b424-865e9eafdf30",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Brandenburg",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "af954939-b31f-4747-a94f-21f87c86b706",
+    "data": [
+      {
+        "text": "Welche Fristen gelten in ",
+        "userDefined": false
+      },
+      {
+        "text": "mein Bundesland",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

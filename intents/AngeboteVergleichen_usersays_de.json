@@ -1,0 +1,402 @@
+[
+  {
+    "id": "c9c9bd68-6816-47fa-8fe4-65649b5b78cd",
+    "data": [
+      {
+        "text": "Trauerkaffee ",
+        "userDefined": false
+      },
+      {
+        "text": "true",
+        "meta": "@trauerkaffee",
+        "alias": "trauerkaffee",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ddbd1be0-437b-4864-8d3b-3e9f53ed34c8",
+    "data": [
+      {
+        "text": "Trauerdruck ",
+        "userDefined": false
+      },
+      {
+        "text": "false",
+        "meta": "@trauerdruck",
+        "alias": "trauerdruck",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "e8f6b7d3-f7e5-43e6-916e-5fc68237fa14",
+    "data": [
+      {
+        "text": "Trauerfeier ",
+        "userDefined": false
+      },
+      {
+        "text": "true",
+        "meta": "@trauerfeier",
+        "alias": "trauerfeier",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1642e14e-4fdf-4c6d-bc9c-897d7a40aa48",
+    "data": [
+      {
+        "text": "Blumen",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "minimalistisch",
+        "meta": "@blumen-deko",
+        "alias": "blumen_deko",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "59c7a8fe-5afe-4a63-ac18-f2ac13822e8e",
+    "data": [
+      {
+        "text": "Friedhof Ohlsdorf",
+        "meta": "@friedhof",
+        "alias": "friedhof",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "876cff28-29d4-4e20-85bd-ec984a038efb",
+    "data": [
+      {
+        "text": "25421",
+        "meta": "@sys.zip-code",
+        "alias": "plz",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ee62d254-6f8f-4e38-b3f6-320eebe2b5c7",
+    "data": [
+      {
+        "text": "Urne",
+        "meta": "@sarg-urne",
+        "alias": "sargurne",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "normal",
+        "meta": "@sarg-urne-art",
+        "alias": "sarg-urne-art",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "220fc539-9b24-4181-9380-8c682f6487de",
+    "data": [
+      {
+        "text": "Sarg",
+        "meta": "@sarg-urne",
+        "alias": "sargurne",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "normal",
+        "meta": "@sarg-urne-art",
+        "alias": "sarg-urne-art",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f57e3450-01d8-47c5-afb3-9e4205db6fdd",
+    "data": [
+      {
+        "text": "Sarg",
+        "meta": "@sarg-urne",
+        "alias": "sargurne",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "umweltfreundlich",
+        "meta": "@sarg-urne-art",
+        "alias": "sarg-urne-art",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "65f05ad1-9bb4-4a54-a267-ace1c11a129a",
+    "data": [
+      {
+        "text": "Sarg",
+        "meta": "@sarg-urne",
+        "alias": "sargurne",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "selbst gestalten",
+        "meta": "@sarg-urne-art",
+        "alias": "sarg-urne-art",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ca6880e9-6084-4280-8f8f-2df1950a7ff8",
+    "data": [
+      {
+        "text": "Sarg",
+        "meta": "@sarg-urne",
+        "alias": "sargurne",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "premium",
+        "meta": "@sarg-urne-art",
+        "alias": "sarg-urne-art",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "06cf6e84-7c11-476a-9580-0566f0cd01cb",
+    "data": [
+      {
+        "text": "Sarg",
+        "meta": "@sarg-urne",
+        "alias": "sargurne",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "einfach",
+        "meta": "@sarg-urne-art",
+        "alias": "sarg-urne-art",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "425a1811-2f12-4550-8820-be073b47564a",
+    "data": [
+      {
+        "text": "baumbestattung",
+        "meta": "@bestattungsart",
+        "alias": "bestattungsart",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5e6ffe8a-11c9-4d55-8fdf-56c95c69ba9c",
+    "data": [
+      {
+        "text": "seebestattung",
+        "meta": "@bestattungsart",
+        "alias": "bestattungsart",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a96ac99a-208a-410f-8e35-25cf29ff4712",
+    "data": [
+      {
+        "text": "urnenbestattung",
+        "meta": "@bestattungsart",
+        "alias": "bestattungsart",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "07b58225-a880-495b-b511-57e6cfc3508a",
+    "data": [
+      {
+        "text": "erdbestattung",
+        "meta": "@bestattungsart",
+        "alias": "bestattungsart",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "dc269c69-bfbd-494b-9cdd-a4143d6a5d63",
+    "data": [
+      {
+        "text": "Ich möchte Preise von ",
+        "userDefined": false
+      },
+      {
+        "text": "Urnenbestattungen",
+        "meta": "@bestattungsart",
+        "alias": "bestattungsart",
+        "userDefined": true
+      },
+      {
+        "text": " vergleichen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "11488c19-edd4-4cab-866a-243b3ac0200e",
+    "data": [
+      {
+        "text": "Ich möchte Preise von ",
+        "userDefined": false
+      },
+      {
+        "text": "Erdbestattungen",
+        "meta": "@bestattungsart",
+        "alias": "bestattungsart",
+        "userDefined": false
+      },
+      {
+        "text": " vergleichen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9f1cbb23-d202-4e72-9fac-c7e75448b9c1",
+    "data": [
+      {
+        "text": "Ich möchte Preise von ",
+        "userDefined": false
+      },
+      {
+        "text": "Bestattungen",
+        "userDefined": false
+      },
+      {
+        "text": " vergleichen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4eabb63f-a5e7-4d07-b545-8268264688b9",
+    "data": [
+      {
+        "text": "Ich möchte Angebote vergleichen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

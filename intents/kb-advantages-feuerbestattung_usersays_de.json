@@ -1,0 +1,96 @@
+[
+  {
+    "id": "cc4bfc0b-87e0-465a-9003-bf62c0e15c56",
+    "data": [
+      {
+        "text": "Warum soll ich eine Feuerbestattung organisieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2d6018f8-4c4c-49eb-af07-5813caa51133",
+    "data": [
+      {
+        "text": "Soll ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Feuerbestattung organisieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a0c2fb62-d89b-461d-a6ce-a7b3b32a2d59",
+    "data": [
+      {
+        "text": "Nenne Vorteile von Feuerbestattungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "fa6a2b60-2d85-4b2a-bad8-97b8efc8d729",
+    "data": [
+      {
+        "text": "Sind Feuerbestattungen besser?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "03c3d068-20c4-457f-9795-1285b2a19b7d",
+    "data": [
+      {
+        "text": "Welche Vorteile haben Feuerbestattungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "ca0847a3-9733-4047-acb7-ac2d8502303b",
+    "data": [
+      {
+        "text": "Was spricht für ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Feuerbestattung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

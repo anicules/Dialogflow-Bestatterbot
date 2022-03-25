@@ -1,0 +1,69 @@
+{
+  "id": "64116e4f-40e5-42eb-b8ed-56dd09f11bdf",
+  "name": "kb-prozess-plattform-registrierung-b2c",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Damit Sie sich ein Kundenkonto erstellen können, müssen Sie das Formular auf folgende Seite ausfüllen und absenden. Ihr Kundenkonto wird dann sofort erstellt."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "In Ihrem Kundenkonto können Sie Ihre Aufträge einsehen und deren Status verfolgen."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "Registrieren Sie sich oder melden Sie sich an, um Bestatter zu beauftragen",
+                  "title": "Konto erstellen",
+                  "actionLink": "http://localhost/BaaS-WI-MA-P-Website/register.php",
+                  "type": "info",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://localhost/BaaS-WI-MA-P-Website/Artefacts/dove.svg"
+                    }
+                  }
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

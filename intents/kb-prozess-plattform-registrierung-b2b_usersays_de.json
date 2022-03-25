@@ -1,0 +1,109 @@
+[
+  {
+    "id": "9bb8d645-600f-468d-838f-1536a4878937",
+    "data": [
+      {
+        "text": "Ich möchte meine Angebote auflisten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3ad11a64-68fd-4067-89c0-5a252df13dee",
+    "data": [
+      {
+        "text": "Ich möchte meine Leistungen anbieten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0589ccc0-6c8b-4fea-a82a-bd624662f37e",
+    "data": [
+      {
+        "text": "Brauche ich als Bestatter ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "userDefined": false
+      },
+      {
+        "text": " Konto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "0f796c9c-0375-4501-8351-49b3c7f732f2",
+    "data": [
+      {
+        "text": "Wo kann ich mich als Bestatter registrieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "da8eec48-2424-40ab-a532-0d55c912a920",
+    "data": [
+      {
+        "text": "Als Bestatter registrieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6999daaf-15d0-4129-8c91-d6453eae59f6",
+    "data": [
+      {
+        "text": "Wie kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "userDefined": false
+      },
+      {
+        "text": " Bestatterkonto erstellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c9b183d5-5042-47c1-b707-43dbca0631bd",
+    "data": [
+      {
+        "text": "Wie registriere ich mich als Bestatter?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "id": "e8e8e2c5-13f0-4f84-a718-51b0962e5172",
+    "data": [
+      {
+        "text": "Wie lange nach der Kremation muss die Beisetzung stattfinden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "1b62ae81-d50f-439e-b3fd-5b3067fe9016",
+    "data": [
+      {
+        "text": "Wann muss die Kremation stattfinden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "f1125acb-e85e-471d-9849-8afb5b763739",
+    "data": [
+      {
+        "text": "Bis wann darf ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Feuerbestattung stattfinden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c64ce03f-c173-4594-850d-e001fc779c6c",
+    "data": [
+      {
+        "text": "Gibt es bestimmte Zeiten innerhalb deren ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Feuerbestattung stattfinden muss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "7ccc3af3-3f5f-42ee-a69f-8975ac154eae",
+    "data": [
+      {
+        "text": "Wie lange nach dem Tod muss ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Feuerbestattung stattfinden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3914d3ee-edc7-4773-8293-821b246d7ded",
+    "data": [
+      {
+        "text": "Wann muss ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Feuerbestattung spätestens stattfinden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a3018293-e16d-4290-a76c-a3bdf7220333",
+    "data": [
+      {
+        "text": "Welche Fristen muss ich bei ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "userDefined": false
+      },
+      {
+        "text": " Feuerbestattung beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

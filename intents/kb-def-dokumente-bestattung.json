@@ -1,0 +1,55 @@
+{
+  "id": "ad8eeb76-04f8-45e5-9297-bc14c51caccc",
+  "name": "kb-def-dokumente-bestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Für die Durchführung einer Bestattung sind bestimmte Dokumente des Verstorbenen benötigt. Diese Dokumente müssen in der Regel dem Bestattungsinstitut gegeben werden. Sie sollten außerdem in den Unterlagen des Verstorbenen prüfen, ob dieser bereits ein Vorsorgevertrag oder eine Sterbegeldversicherung mit einem Bestattungsinstitut abgeschlossen hatte."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "- Totenschein"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "- Sterbeurkunde"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "b22b48d5-b3fc-4b1e-8962-51703a9679d8",
+  "name": "kb-advantages-erdbestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "1. Lange Tradition: Erdbestattungen werden weltweit seit viele Jahrhunderte durchgeführt. Heutzutage sind ca. 30% aller Bestattungen in Deutschland \"klassische\" Erdbestattungen."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "2. Offene Aufbahrung: Bei einer Erdbestattung haben die Angehörigen die Möglichkeit, sich am Sarg des Verstorbenen zu verabschieden. Dies kann bei der Verarbeitung der Trauergefühle helfen."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "3. Grabgestaltung nach eigenem Wunsch: Das Grab bietet eine größere Fläche, um es mit Kerzen, Laternen oder (sich je nach Jahreszeit wechselnde) Pflanzen zu schmücken."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

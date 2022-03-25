@@ -1,0 +1,78 @@
+[
+  {
+    "id": "68831fc6-9378-464c-959a-265ba47c0ae7",
+    "data": [
+      {
+        "text": "Muss ich mich um ",
+        "userDefined": false
+      },
+      {
+        "text": "die Bestattung",
+        "userDefined": false
+      },
+      {
+        "text": " kümmern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "35d48b14-56a5-4382-85ce-9ea274460fcc",
+    "data": [
+      {
+        "text": "Muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "die Bestattung",
+        "userDefined": false
+      },
+      {
+        "text": " organisieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d15e4cac-2e13-480d-8433-8fa04c531fdf",
+    "data": [
+      {
+        "text": "Wer muss ",
+        "userDefined": false
+      },
+      {
+        "text": "die Bestattung",
+        "userDefined": false
+      },
+      {
+        "text": " organisieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "153f4992-9da8-41c9-9e54-10f7ddc3d62b",
+    "data": [
+      {
+        "text": "Wer sind bestattungspflichtige Personen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

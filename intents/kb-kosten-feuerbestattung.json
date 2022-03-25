@@ -1,0 +1,35 @@
+{
+  "id": "4decbfc4-0ee4-45a1-b250-fee854fd56f3",
+  "name": "kb-kosten-feuerbestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Die Kosten einer Feuerbestattung sind aus unterschiedlichen Teilleistungen zusammengesetzt; die Preise variieren in Abhängigkeit der Qualität der jeweiligen Leistungen. Sie können grundsätzlich mit Kosten zwischen 5.500€ und 15.000€ rechnen. Eine Feuerbestattung ist somit günstiger als eine Erdbestattung."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

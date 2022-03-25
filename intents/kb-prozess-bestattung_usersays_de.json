@@ -1,0 +1,94 @@
+[
+  {
+    "id": "ccd00ffb-1c28-4338-bbe1-f06747315860",
+    "data": [
+      {
+        "text": "Was passiert bei ",
+        "userDefined": false
+      },
+      {
+        "text": "einer Bestattung",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3eac9a9c-9588-4acc-97e2-984fbff4c251",
+    "data": [
+      {
+        "text": "Wie läuft ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " normale ",
+        "userDefined": false
+      },
+      {
+        "text": "Bestattung",
+        "userDefined": false
+      },
+      {
+        "text": " ab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c563cbd6-1663-4aa7-8053-ac0387484f41",
+    "data": [
+      {
+        "text": "Was ist der prinzipielle Ablauf ",
+        "userDefined": false
+      },
+      {
+        "text": "einer Bestattung",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d7c78de6-4787-4632-b9ba-e0b2c884b374",
+    "data": [
+      {
+        "text": "Wie läuft ",
+        "userDefined": false
+      },
+      {
+        "text": "eine Bestattung",
+        "userDefined": false
+      },
+      {
+        "text": " grundsätzlich ab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

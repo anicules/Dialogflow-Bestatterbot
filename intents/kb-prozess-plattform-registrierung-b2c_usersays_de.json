@@ -1,0 +1,151 @@
+[
+  {
+    "id": "01d288ef-888e-4e14-956e-36c34369e811",
+    "data": [
+      {
+        "text": "Konto erstellen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a45d8502-d4fd-4fa6-93d5-280e07357fa9",
+    "data": [
+      {
+        "text": "Registrieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "79c5274d-9189-438e-be0f-bd4a679518be",
+    "data": [
+      {
+        "text": "Warum muss ich mich registrieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9a7ce430-6d57-420b-a6c1-7ae274233144",
+    "data": [
+      {
+        "text": "Wozu brauche ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "userDefined": false
+      },
+      {
+        "text": " Kundenkonto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8dcad03c-7cb3-4df7-b6a8-c11117f72833",
+    "data": [
+      {
+        "text": "Wo muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "userDefined": false
+      },
+      {
+        "text": " Kundenkonto anlegen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "c4ae3df4-c2c1-497c-b135-e015f3859367",
+    "data": [
+      {
+        "text": "Wie erstelle ich ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "userDefined": false
+      },
+      {
+        "text": " Kundenkonto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "3038fa85-1b4b-49ac-8573-bcd33ec7b519",
+    "data": [
+      {
+        "text": "Kundenkonto anlegen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "29e4c2cf-927b-46f6-b089-fde2a38bfeee",
+    "data": [
+      {
+        "text": "Kann ich mich als ",
+        "userDefined": false
+      },
+      {
+        "text": "Kunde",
+        "userDefined": false
+      },
+      {
+        "text": " registrieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6287fb88-fe8e-441f-8b2b-4d2b915c3972",
+    "data": [
+      {
+        "text": "Wo kann ich mich registrieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "de",
+    "updated": 0
+  }
+]

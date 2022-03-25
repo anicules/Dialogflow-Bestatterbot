@@ -1,0 +1,164 @@
+[
+  {
+    "id": "de425e3e-1a60-432a-9fc1-ccefb151ab32",
+    "data": [
+      {
+        "text": "Falls der Verstorbene ",
+        "userDefined": false
+      },
+      {
+        "text": "verwitwet",
+        "userDefined": false
+      },
+      {
+        "text": " war, welche Dokumente benötige ich für die Sterbeurkunde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6617b3ac-2127-4673-9633-374f1f45d323",
+    "data": [
+      {
+        "text": "Falls der Verstorbene geschieden war, welche Dokumente benötige ich für die Sterbeurkunde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "abe2ec21-e7fe-4b59-b76f-268b8ee39e9e",
+    "data": [
+      {
+        "text": "Falls der Verstorbene verheiratet war, welche Dokumente benötige ich für die Sterbeurkunde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8804b110-4588-421b-a27c-d54568948ec6",
+    "data": [
+      {
+        "text": "Was brauche ich, um ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Sterbeurkunde zu beantragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8cce53ba-1e7d-45e2-80e5-04b0ab401ba3",
+    "data": [
+      {
+        "text": "Wie beantrage ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Sterbeurkunde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6a2ee719-7df3-45df-8169-8f476dcc2e58",
+    "data": [
+      {
+        "text": "Dokumente für Sterbeurkunde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "90db0ee9-ef6f-41ae-a545-fb73243fc825",
+    "data": [
+      {
+        "text": "Welche Dokumente braucht man, um die Sterbeurkunde zu beantragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5d30c6f1-4a8f-4c48-a5be-de886f19acdb",
+    "data": [
+      {
+        "text": "Muss man die Sterbeurkunde beantragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "cc9c744c-d350-4c0e-83bc-eb3ed8400abc",
+    "data": [
+      {
+        "text": "Sterbeurkunde Antrag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "2bef8940-5a40-424e-bf63-5a9ac7f6ada9",
+    "data": [
+      {
+        "text": "Wie erhalte ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Sterbeurkunde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

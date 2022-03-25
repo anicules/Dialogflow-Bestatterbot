@@ -1,0 +1,47 @@
+[
+  {
+    "value": "schlicht",
+    "synonyms": [
+      "schlicht",
+      "einfach",
+      "billig",
+      "so billig wie möglich"
+    ]
+  },
+  {
+    "value": "normal",
+    "synonyms": [
+      "normal",
+      "standard",
+      "üblich",
+      "typisch"
+    ]
+  },
+  {
+    "value": "premium",
+    "synonyms": [
+      "premium",
+      "teuer",
+      "schön",
+      "gut"
+    ]
+  },
+  {
+    "value": "umweltfreundlich",
+    "synonyms": [
+      "umweltfreundlich",
+      "bio",
+      "gut für die umwelt"
+    ]
+  },
+  {
+    "value": "selbst_gestaltet",
+    "synonyms": [
+      "selbst_gestaltet",
+      "selbst gestaltet",
+      "malen",
+      "personalisiert",
+      "personalisieren"
+    ]
+  }
+]

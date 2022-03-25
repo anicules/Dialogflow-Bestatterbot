@@ -1,0 +1,54 @@
+[
+  {
+    "id": "58a4bc03-59d7-458b-8ee3-a9b1a330cc93",
+    "data": [
+      {
+        "text": "Erkläre Sterbeurkunde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "aeed7c6f-5a53-4d52-91c7-65cff8260fd1",
+    "data": [
+      {
+        "text": "Sterbeurkunde erklärt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d0fcc6b3-6fe9-477a-bd34-ef8f8f27fe2e",
+    "data": [
+      {
+        "text": "Sterbeurkunde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "d4c75eef-b436-4be0-89d2-e162e284960a",
+    "data": [
+      {
+        "text": "Was ist die Sterbeurkunde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

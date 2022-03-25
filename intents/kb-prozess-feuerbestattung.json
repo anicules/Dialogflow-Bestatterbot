@@ -1,0 +1,55 @@
+{
+  "id": "f9e7d57f-e1a1-4eef-911d-b64c68c16f6b",
+  "name": "kb-prozess-feuerbestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Voraussetzung jeder Feuerbestattung ist die Einäscherung (auch Kremation genannt) des Verstorbenen in einem Sarg. Der Sarg ist leichter und weniger verarbeitet als der Sarg, der üblicherweise bei einer Erdbestattung verwendet wird. Dieser leichte Sarg wird auch zum Transport des Verstorbenen eingesetzt. Nach der Kremation wird die Asche in eine Aschekapsel gesammelt, die versiegelt dem Bestatter übergeben wird. Der Bestatter legt diese Aschekapsel in der von Ihnen gewählten Schmuckurne."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Auch bei einer Feuerbestattung kann eine Trauerfeier stattfinden. Diese kann bis zu 1 Stunde dauern und wird, falls sie dies wünschen, von dem Bestatter organisiert. Die Trauerfeier kann in der Kapelle oder Trauerhalle des Friedhofs (vor der Beisetzung auf dem Friedhof, vorausgesetzt ist eine Urnenbestattung), im Abschiedsraum des Krematoriums (vor der Einäscherung), in einer Kirche, im Bestattungsinstitut, zu Hause oder in andere geeignete Räumlichkeiten. Es ist nicht unüblich, dass man eine Trauerfeier am Sarg (vor der Kremation) mit Verwandten, Bekannte, Freunde und Familie des Verstorbenen und die Urne im engsten Familienkreis beisetzen."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Meistens gibt es während der Trauerfeier eine Rede. Diese Rede kann von einem Geistlichen, einem professionellen Trauerredner oder von einer Person aus dem privaten Umfeld des Verstorbenen durchgeführt werden. Der Redner schneidet die Rede auf die verstorbene Person zu. Auch Musik kann abgespielt werden. Falls die Trauerfeier in einer Kirche oder Friedhofskapelle stattfindet, kann ein Organist die Zeremonie begleiten. Auch andere Instrumentisten oder sogar Bands können eingeladen werden. Falls man die Musikstücke selbst ausgewählt, sollten diese den Charakter des Verstorbenen widerspiegeln. Falls Sie sich keine Trauerfeier wünschen, kann darauf verzichtet werden. Dadurch, dass sie keine Trauerfeier oder aber die Planung und Organisation dieser selbst übernehmen, können Sie Kosten einsparen. Bei einer Urnenbestattung, zum Beispiel, haben Sie trotzdem die Möglichkeit, sich still und im kleinen Rahmen vor der aufgebahrten Urne zu verabschieden und die Urnenträger bis zur Grabstelle zu begleiten. An der Grabstelle wird die Urne beigesetzt."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

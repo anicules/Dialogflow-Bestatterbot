@@ -1,0 +1,146 @@
+[
+  {
+    "id": "4b936fae-d09b-4120-af10-32c928cfbd0c",
+    "data": [
+      {
+        "text": "Ich möchte mehr über Erdbestattungen wissen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "a746cf92-ded5-4915-b88e-6f8a82190d0a",
+    "data": [
+      {
+        "text": "Ich verstehe die Erdbestattung nicht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8f277c09-5a5c-4100-8ba8-cdcd76b4ab65",
+    "data": [
+      {
+        "text": "Beschreibe die typische Erdbestattung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "30280cb1-4878-4ffa-8dcf-83ba97da58fd",
+    "data": [
+      {
+        "text": "Wie geht man bei ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "userDefined": false
+      },
+      {
+        "text": " Erdbestattung vor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "4d591bfd-c7ab-4d28-a07d-e1b3f65b03e6",
+    "data": [
+      {
+        "text": "Was passiert bei ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "userDefined": false
+      },
+      {
+        "text": " Erdbestattung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "9355cc4e-67f8-45ea-aced-ba4aba6ea98f",
+    "data": [
+      {
+        "text": "Erkläre den Ablauf ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "userDefined": false
+      },
+      {
+        "text": " Erdbestattung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "289aec8e-e1ee-4590-9bc7-856283ee1868",
+    "data": [
+      {
+        "text": "Was ist der Ablauf ",
+        "userDefined": false
+      },
+      {
+        "text": "einer",
+        "userDefined": false
+      },
+      {
+        "text": " Erdbestattung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "6b85dde2-2ecd-4fd6-a99f-2012abe00c01",
+    "data": [
+      {
+        "text": "Wie läuft ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Erdbestattung ab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

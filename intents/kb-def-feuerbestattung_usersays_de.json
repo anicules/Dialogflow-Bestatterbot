@@ -1,0 +1,96 @@
+[
+  {
+    "id": "c31bdb6b-7ef8-4bd7-a084-8289315c047d",
+    "data": [
+      {
+        "text": "Erkläre Feuerbestattung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "48ea10fa-fe21-48f6-97e0-70b4a607a194",
+    "data": [
+      {
+        "text": "Erkläre Urnenbestattung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "886c9c7b-0e14-4783-8662-8667bffadbe7",
+    "data": [
+      {
+        "text": "Definiere Urnenbestattung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "8e492737-cd6b-40c4-bcbf-733368563b8c",
+    "data": [
+      {
+        "text": "Definiere Feuerbestattung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "251efa75-e8dc-4fae-985d-280acd34c170",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Urnenbestattung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "5c4307e8-0632-4d09-970d-bb9622207038",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "userDefined": false
+      },
+      {
+        "text": " Feuerbestattung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

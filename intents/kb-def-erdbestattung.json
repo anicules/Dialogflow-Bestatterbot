@@ -1,0 +1,35 @@
+{
+  "id": "1e06b6ab-0cb6-47d2-a6db-0a2d85347269",
+  "name": "kb-def-erdbestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Bei einer Erdbestattung wird der Verstorbene in einen Sarg gebettet und im Erdreich in einem Friedhof beigesetzt. Der Sarg besteht dabei meistens aus Holz, kann aber auch aus anderen, zersetzbaren Materialien zusammengesetzt sein."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

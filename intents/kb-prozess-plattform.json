@@ -1,0 +1,69 @@
+{
+  "id": "ada02ff0-ce31-49ba-92d2-1995a80d1c4d",
+  "name": "kb-prozess-plattform",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Um eine Bestattung auf unserer Plattform planen, müssen Sie sich zuerst grob Gedanken darüber machen, wie die Bestattung ablaufen soll. Soll die Bestattung eine Erdbestattung sein oder eine Feuerbestattung? Möchten Sie eine Trauerfeier? Wenn ja, soll der Bestatter diese für Sie organisieren?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Sobald sie grob wissen, was sie Sie von der Bestattung wünschen, benutzen Sie das Vergleichsportal, um diese konkret zu personalisieren. Danach können Sie Preisangebote für die von Ihnen konfigurierten Wünsche je Bestatter einsehen. Falls Sie ein ansprechendes Angebot finden, können Sie direkt den jeweiligen Bestatter beauftragen. Dafür müssen Sie sich aber zuerst auf unserer Plattform ein Profil anlegen."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "Nutzen sie unsere Plattform, um Bestatterangebote zu vergleichen",
+                  "actionLink": "http://localhost/BaaS-WI-MA-P-Website/vergleichen.php",
+                  "image": {
+                    "src": {
+                      "rawUrl": "http://localhost/BaaS-WI-MA-P-Website/Artefacts/dove.svg"
+                    }
+                  },
+                  "title": "Bestatterangebote vergleichen",
+                  "type": "info"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "de",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

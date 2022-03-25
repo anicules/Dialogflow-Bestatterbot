@@ -1,0 +1,35 @@
+{
+  "id": "921e0368-d4e4-4b81-9a02-349b85241779",
+  "name": "kb-def-feuerbestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Bei einer Feuerbestattung wird Verstorbene eingeäschert, die verbliebene Asche wird in einer Urne gesammelt. Die Urne wird traditionell auf einem Friedhof beigesetzt, dies entspricht einer \"Urnenbestattung\". Es gibt allerdings auch andere Möglichkeiten, die Urne beizusetzen, zum Beispiel die Wald- oder Seebestattung."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "947cdce4-279e-4af5-a66d-840386818c3f",
+  "name": "kb-prozess-bestattung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Im Todesfall einer Person wird zunächst ein Totenschein ausgestellt. Die Angehörigen müssen darüber hinaus mehrere Behörden über den Tod informieren und Dokumente, die beispielsweise für die Trauerfeier, die Einäscherung und die Bestattung notwendig sind, beantragen. Schnellstmöglich nach dem Tod müssen die Hinterbliebenen prüfen, ob der Verstorbene ein Testament hinterlassen hat oder ein Bestattungsvorsorgevertrag abgeschlossen hatte, in dem Verfügungen über den Ablauf der Bestattung festgelegt werden (in diesem Fall müsste der vertraglich verpflichtete Bestatter kontaktiert werden, um seinen Aufgaben nachzugehen). Falls diese nicht vorliegen, müssen die Angehörigen selbst die Bestattung planen. In den ersten 36 Stunden nach dem Tod haben die Angehörigen des Toten einen Bestatter zu kontaktieren. Der Bestatter berät die Angehörigen über den rechtlichen Rahmenbedingungen (zum Beispiel muss das Testament beim Amtsgericht abgegeben werden oder es werden Personalausweis, Totenschein, Geburtsurkunde und ggf. Heiratsurkunde für den Sterbeschein benötigt) und hilft bei der Organisation der Bestattung. Außerdem muss die Art der Bestattung sowie die Grabstätte ausgewählt werden. Nachdem ein Bestatter beauftragt und ein Bestattungsvertrag abgeschlossen wird, holt der Bestatter den Toten ab und bringt ihn in den eigenen Klimaraum im Bestattungsbetrieb. Der Bestattungsvertrag regelt den Umfang der Leistungen des Bestatters sowie die Kosten. Im Klimaraum des Bestatters wird der Leichnam gewaschen, bekleidet und kosmetisiert, ein Sarg (falls eine Erdbestattung stattfinden soll) oder eine Urne (falls eine Feuerbestattung stattfinden soll) wird ausgewählt. Diese Leistungen, sowie die spätere Beisetzung, gehören zu den Grundleistungen eines Bestatters."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Im nächsten Schritt soll der konkrete Ablauf der Abschiedsfeier festgelegt werden. Dazu muss zuerst geklärt werden, ob die Hinterbliebenen selbst die Planung übernehmen oder diese Aufgabe dem Bestattungsinstitut überlassen. Entscheiden sich die Hinterbliebenen, die Trauerfeier selbst zu planen, müssen sie erstens die Räumlichkeiten organisieren, zweitens sich mit den Friedhofsämter und eventuell mit Pfarreien oder einem Trauerredner absprechen und drittens weitere Freunde und Bekannte des Verstorbenen zur Abschiedsfeier, mit Hilfe einer Trauerkarte, einer Traueranzeige in einer Zeitung oder persönlicher Mitteilungen, einladen. Sonst kann der Bestatter diese Aufgaben übernehmen. Die Abschiedsfeier erfolgt nach bis zu zwei Wochen nach dem Tod und meistens „direkt vor der Beisetzung“. Die Abschiedsfeier kann, in Abhängigkeit der Wünsche des Verstorbenen oder seinen Angehörigen, als religiöse oder nicht-religiöse Zeremonie gestaltet werden. Entscheidet man sich für eine religiöse Zeremonie, muss man ein Pastor einbinden, sonst sollte ein Trauerredner ausgewählt werden (ein guter Freund oder ein Familienmitglied des Verstorbenen kann diese Aufgabe ebenfalls übernehmen)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Nach der Abschiedsfeier wird in den meisten Fällen auch ein Trauerkaffe organisiert. Bei einem Trauerkaffe treffen sich die Hinterbliebene, um Erinnerungen zu erzählen und um gemeinsam zu essen. Der Trauerkaffe kann in einem Café, in einem Restaurant oder bei einem der Angehörigen zu Hause stattfinden, eventuell hilft der Bestatter bei der Reservierung eines Restaurants/Cafés oder mit dem Catering."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Außerdem muss der Verstorbene vom Wohnort abgemeldet, die Kranken- bzw. Rentenkasse informiert, alle Mitgliedschaften des Verstorbenen gekündigt und Renten-, Pensions- oder Versicherungsansprüche geltend gemacht werden. Auch die Konten bei digitalen Dienstanbietern müssen gelöscht werden (der sog. digitale Nachlass, etwa Google-, Facebook-, Amazon-, Netflix- oder Spotify-Konten) – dazu müssen die Angehörigen formlos die Anbieter kontaktieren und ihnen mehrere Dokumente (u.a. eine Kopie der Sterbeurkunde) übermitteln."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Der Grabstein muss erst nach mindestens drei Monaten aufgebaut werden, weshalb ein Steinmetz im allerletzten Schritt ausgesucht und beauftragt werden muss. Für die Gestaltung des Grabsteins hat man, im Falle einer Beisetzung in einem Friedhof, die Vorgaben des jeweiligen Friedhofs zu beachten."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2aecad19-884e-4ff2-942d-884e7506ad25",
+  "name": "df-messenger-welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Hi! Ich bin der Bestattungs-Bot. Stellen Sie mir gerne Fragen rund um das Thema Bestattung. Ich kann Sie außerdem beim Vergleichen von Bestatter-Angeboten helfen."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
